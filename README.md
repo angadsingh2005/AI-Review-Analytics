@@ -34,5 +34,5 @@ Built to run entirely on local consumer hardware (optimized for 16GB system RAM 
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/AI-Review-Analytics.git](https://github.com/angadsingh2005/AI-Review-Analytics.git)
+git clone [https://github.com/angadsingh2005/AI-Review-Analytics.git](https://github.com/angadsingh2005/AI-Review-Analytics.git)
 cd AI-Review-Analytics
